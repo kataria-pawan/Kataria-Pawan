@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Sql, Power BI, Excel, Python, Snowflake**
 
-- 📫 How to reach me **katariapawan@outlook.com**
+- 📫 How to reach me **kataria_pawan@outlook.com**
 
 - ⚡ Fun fact **I have a sweet tooth.**
 
